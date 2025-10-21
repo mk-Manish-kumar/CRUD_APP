@@ -43,6 +43,7 @@ public class MyclassApp {
 			}
 			 
 		 }
+		 System.out.println("all the resourse is clear");
 		 scanner.close();
 	}
 
